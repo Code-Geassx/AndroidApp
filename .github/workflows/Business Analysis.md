@@ -1,5 +1,6 @@
 # 1.Introduction
   ## 1.Business purpose
+  Our company is full of amazing people passionate about building beautiful glass pieces for our clients.
   ## 2.Business scope
   ## 3.Overview
   ## 4.Definitions 
